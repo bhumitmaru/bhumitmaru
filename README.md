@@ -41,16 +41,6 @@ bhumit = {
 
 ---
 
-## `$ ls ./projects`
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎭 **Deepfake Detector** | Deep learning system for detecting manipulated video | `TensorFlow` `CV` `Python` |
-| 📁 **CA Doc Portal** | Secure document management with PAN-based auth | `Node.js` `Google Drive API` |
-| 📱 **Cooker Whistle Counter** | Whistle detection via signal processing | `Android` `DSP` `Java` |
-
----
-
 ## `$ cat /stack/core`
 
 ```
