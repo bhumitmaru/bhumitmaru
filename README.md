@@ -33,7 +33,7 @@ bhumit = {
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  🏆  IMC PROSPERITY 4 TRADING COMPETITION                               │
-│      Overall Rank  ▸  #170 of 18,000+ teams                            │
+│      Overall Rank  ▸  #170 of 18,000+ teams                             │
 │      India Rank    ▸  #21                                               │
 │  📜  JPMorgan Chase — Quant Research Virtual Experience                 │
 └─────────────────────────────────────────────────────────────────────────┘
