@@ -3,8 +3,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  BHUMIT MARU  //  AI × QUANT  //  MUMBAI, INDIA                        ║
-║  [ Building at the intersection of markets, models, and machines ]      ║
+║  BHUMIT MARU  //  AI × QUANT  //  MUMBAI, INDIA                          ║
+║  [ Building at the intersection of markets, models, and machines ]       ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
